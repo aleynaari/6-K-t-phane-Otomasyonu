@@ -1,0 +1,12 @@
+C:\Users\Aleyna\Desktop\Projects\6)Kütüphane-Proje-Katmanlı mimari\Entity\bin\Debug\Entity.dll
+C:\Users\Aleyna\Desktop\Projects\6)Kütüphane-Proje-Katmanlı mimari\Entity\bin\Debug\Entity.pdb
+C:\Users\Aleyna\Desktop\Projects\6)Kütüphane-Proje-Katmanlı mimari\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\Projects\6)Kütüphane-Proje-Katmanlı mimari\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\Projects\6)Kütüphane-Proje-Katmanlı mimari\Entity\obj\Debug\Entity.dll
+C:\Users\Aleyna\Desktop\Projects\6)Kütüphane-Proje-Katmanlı mimari\Entity\obj\Debug\Entity.pdb
+C:\Users\aleyna.ari\Desktop\Projects\6)Kütüphane-Proje-Katmanlı mimari\Entity\bin\Debug\Entity.dll
+C:\Users\aleyna.ari\Desktop\Projects\6)Kütüphane-Proje-Katmanlı mimari\Entity\bin\Debug\Entity.pdb
+C:\Users\aleyna.ari\Desktop\Projects\6)Kütüphane-Proje-Katmanlı mimari\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\aleyna.ari\Desktop\Projects\6)Kütüphane-Proje-Katmanlı mimari\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\aleyna.ari\Desktop\Projects\6)Kütüphane-Proje-Katmanlı mimari\Entity\obj\Debug\Entity.dll
+C:\Users\aleyna.ari\Desktop\Projects\6)Kütüphane-Proje-Katmanlı mimari\Entity\obj\Debug\Entity.pdb

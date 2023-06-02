@@ -1,0 +1,30 @@
+<Kitap>
+  <KitapBilgi KitapAd="Ayşe Tatilde" Yazar="Ayşe Gül" Turu="Roman" BaskiYili="2001" Sayfa="75" />
+  <KitapBilgi KitapAd="Son Ada" Yazar="Zülfü Livaneli" Turu="Roman" BaskiYili="2020" Sayfa="168" />
+  <KitapBilgi KitapAd="Fareler ve İnsanlar" Yazar="John Steinbeck" Turu="Roman" BaskiYili="2012" Sayfa="111" />
+  <KitapBilgi KitapAd="Doğu Ekspresi'nde Cinayet" Yazar="Agatha Christie" Turu="Roman" BaskiYili="2007" Sayfa="90" />
+  <KitapBilgi KitapAd="1984" Yazar="George Orwell" Turu="Roman" BaskiYili="2000" Sayfa="352" />
+  <KitapBilgi KitapAd="Kürk Mantolu Madonna" Yazar="Sabahattin Ali" Turu="Roman" BaskiYili="1998" Sayfa="160" />
+  <KitapBilgi KitapAd="Bilinmeyen Bir Kadının Mektubu" Yazar="Stefan Zweig" Turu="Roman" BaskiYili="2022" Sayfa="56" />
+  <KitapBilgi KitapAd="Şeker Portakalı" Yazar="Jose Mauro De Vasconcelos" Turu="Roman" BaskiYili="2000" Sayfa="200" />
+  <KitapBilgi KitapAd="Genç Werther'in Acıları" Yazar="Johann Wolfgang von Goethe" Turu="Roman" BaskiYili="2018" Sayfa="45" />
+  <KitapBilgi KitapAd="Macbeth" Yazar="William Shakespeare" Turu="Tiyatro" BaskiYili="2022" Sayfa="300" />
+  <KitapBilgi KitapAd="The Da Vici Code" Yazar="Dan Brown" Turu="Roman" BaskiYili="2009" Sayfa="250" />
+  <KitapBilgi KitapAd="Persuasion" Yazar="Jane Austen" Turu="Roman" BaskiYili="2017" Sayfa="220" />
+  <KitapBilgi KitapAd="New Atlantis" Yazar="Francis Bacon" Turu="Roman" BaskiYili="2000" Sayfa="150" />
+  <KitapBilgi KitapAd="Emma" Yazar="Jane Austin" Turu="Roman" BaskiYili="2020" Sayfa="516" />
+  <KitapBilgi KitapAd="A Room of One's Own" Yazar="Virginia Woolf" Turu="Roman" BaskiYili="2020" Sayfa="112" />
+  <KitapBilgi KitapAd="Hamlet" Yazar="William Shakespeare" Turu="Tiyatro" BaskiYili="2000" Sayfa="200" />
+  <KitapBilgi KitapAd="Vatan Yahut Silistre" Yazar="Namık Kemal" Turu="Tiyatro" BaskiYili="2023" Sayfa="98" />
+  <KitapBilgi KitapAd="Letter From An Unknown Woman" Yazar="Stefan Zweig" Turu="Roman" BaskiYili="2022" Sayfa="72" />
+  <KitapBilgi KitapAd="Lavinia" Yazar="Özdemir Asaf" Turu="Şiir" BaskiYili="2015" Sayfa="90" />
+  <KitapBilgi KitapAd="Hasretinden Prangalar Eskittim" Yazar="Ahmed Arif" Turu="Şiir" BaskiYili="2008" Sayfa="184" />
+  <KitapBilgi KitapAd="Deli Kızın Türküsü" Yazar="Gülten Akın" Turu="Şiir" BaskiYili="2012" Sayfa="65" />
+  <KitapBilgi KitapAd="Bütün Şiirleri - Orhan Veli" Yazar="Orhan Veli Kanık" Turu="Şiir" BaskiYili="2003" Sayfa="80" />
+  <KitapBilgi KitapAd="Sırça Köşk" Yazar="Sabahattin Ali" Turu="Öykü" BaskiYili="2003" Sayfa="68" />
+  <KitapBilgi KitapAd="Deli Tarla" Yazar="Şermin Yaşar" Turu="Öykü" BaskiYili="2020" Sayfa="192" />
+  <KitapBilgi KitapAd="Gelirken Ekmek Al" Yazar="Şermin Yaşar" Turu="Öykü" BaskiYili="2019" Sayfa="190" />
+  <KitapBilgi KitapAd="Hikayem Paramparça" Yazar="Emrah Serbes" Turu="Öykü" BaskiYili="2012" Sayfa="200" />
+  <KitapBilgi KitapAd="Kendini Arayan Kadın" Yazar="Halit Ertuğrul&#xD;&#xA;" Turu="Öykü " BaskiYili="2004" Sayfa="140" />
+  <KitapBilgi KitapAd="Kırılmadık Bir Şey Kalmadı" Yazar="Özdemir Asaf" Turu="Öykü" BaskiYili="2009" Sayfa="170" />
+</Kitap>
